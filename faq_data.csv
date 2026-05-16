@@ -1,0 +1,22 @@
+question,answer,topic
+What is NLP?,"Natural Language Processing, or NLP, is a field of artificial intelligence that focuses on how computers can understand, process, and generate human language.",NLP
+What is tokenization?,"Tokenization means splitting text into smaller units, such as words, sentences, or subwords. It is often one of the first steps in NLP preprocessing.",Preprocessing
+What is lemmatization?,"Lemmatization means reducing a word to its base or dictionary form. For example, running, runs, and ran can be reduced to run.",Preprocessing
+What is text preprocessing?,"Text preprocessing means preparing raw text for analysis. It can include lowercasing, removing punctuation, tokenization, stopword removal, and lemmatization.",Preprocessing
+What is sentiment analysis?,"Sentiment analysis is an NLP technique used to identify whether a text expresses a positive, negative, or neutral opinion.",Sentiment Analysis
+What is text classification?,"Text classification is the task of assigning text to predefined categories, such as spam or not spam, positive or negative, or job ad categories.",Text Classification
+What is named entity recognition?,"Named Entity Recognition, or NER, is an NLP task that identifies entities in text, such as names of people, organizations, locations, dates, and products.",Information Extraction
+What is TF-IDF?,"TF-IDF stands for Term Frequency-Inverse Document Frequency. It gives higher importance to words that are frequent in one text but not too common across all texts.",Text Representation
+What is cosine similarity?,"Cosine similarity measures how similar two text vectors are. In NLP, it is often used to compare the content of two texts.",Text Similarity
+What is Word2Vec?,"Word2Vec is a method for representing words as vectors. Words with similar meanings usually have similar vector representations.",Word Embeddings
+What is CBOW?,"CBOW stands for Continuous Bag of Words. It is a Word2Vec model that predicts a target word based on the surrounding context words.",Word Embeddings
+What is Skip-gram?,"Skip-gram is a Word2Vec model that predicts surrounding context words from a target word.",Word Embeddings
+What is BERT?,"BERT is a transformer-based language model that reads text bidirectionally, meaning it considers both left and right context when understanding a word.",Transformers
+What is a transformer?,"A transformer is a neural network architecture that uses attention mechanisms to process sequences of text efficiently.",Transformers
+What is self-attention?,"Self-attention is a mechanism that allows a model to decide which words in a sentence are most relevant to each other.",Transformers
+What is a chatbot?,"A chatbot is a program that interacts with users through text or speech. In NLP, chatbots often use text matching, machine learning, or language models to generate answers.",Chatbots
+What is semantic search?,"Semantic search tries to find results based on meaning instead of only exact keyword matching.",Semantic Search
+What is RDF?,"RDF stands for Resource Description Framework. It represents information as triples: subject, predicate, and object.",Semantic Web
+What is a knowledge graph?,"A knowledge graph represents information as connected entities and relationships. It is often used to organize and query structured knowledge.",Semantic Web
+What is Apache Jena?,"Apache Jena is a Java framework used to build Semantic Web and Linked Data applications. It can be used to create and work with RDF models.",Semantic Web
+What is SPARQL?,"SPARQL is a query language used to retrieve and manipulate data stored in RDF format.",Semantic Web
